@@ -10,4 +10,3 @@ class EmailParser
     @email = email
   end
 end
-end
