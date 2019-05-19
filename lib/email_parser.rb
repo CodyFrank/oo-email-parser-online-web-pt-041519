@@ -7,7 +7,6 @@
 class EmailParser
   attr_accessor :email
   initialize(email)
-  @email = email
+    @email = email
   end
-
 end
